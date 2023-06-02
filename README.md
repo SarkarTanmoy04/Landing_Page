@@ -16,7 +16,7 @@ This webpage is a part of Oasis Infobyte project, based on Awesome Landing Page 
 
 > + Live Server presented by _Ritwick Dey_
 
-**Explannation _(Person those who wants to understand throughly )_ **
+**Explannation _(Person those who wants to understand throughly )_**
 
 > **I haved divided this webpage into _Three Section_**
  
